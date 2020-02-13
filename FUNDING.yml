@@ -1,0 +1,6 @@
+tidelift: packagist/symfonycorp/connect
+custom:
+    - https://symfony.com/cloud/
+    - https://live.symfony.com/
+    - https://insight.symfony.com/
+    - https://certification.symfony.com/
